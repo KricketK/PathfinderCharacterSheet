@@ -3,13 +3,14 @@
   font-size:12px;
 }
 
+/*
 .half{
   display:inline-block;
   width:50%;
   box-sizing:border-box;
   vertical-align:top;
 }
-
+*/
 label{
   display:inline-block;
   width:35%;
